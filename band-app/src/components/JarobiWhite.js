@@ -1,5 +1,5 @@
 import React from 'react'
-import Jarobi from '../images/jarobi.jpeg'
+import Jarobi from '../images/jarobi2.jpeg'
 
 function JarobiWhite () {
   return (
